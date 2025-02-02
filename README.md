@@ -22,20 +22,14 @@ Welcome to the Next.js + GraphQL Quickstart! This boilerplate is your go-to solu
 
 ### 🚀 Getting Started
 
-1️⃣ Clone the repository
 
-```bash
-git clone https://github.com/shdezhahanj/nextjs-graphql-quickstart.git
-cd nextjs-graphql-quickstart
-```
-
-2️⃣ Install dependencies
+Install dependencies
 
 ```bash
 npm install
 ```
 
-3️⃣ Set up Prisma
+Set up Prisma
 
 1. Configure your `.env` file with your database connection URL:
 
@@ -55,13 +49,13 @@ npx prisma generate
 npx prisma migrate dev
 ```
 
-4️⃣ Seed the database (optional)
+Seed the database (optional)
 
 ```bash
 npx prisma db seed
 ```
 
-5️⃣ Start the development server
+Start the development server
 
 ```bash
 npm run dev
@@ -104,15 +98,6 @@ We love contributions! Here's how you can help:
 ### 📢 Show Your Support
 
 If you find this project helpful, please give it a star on GitHub ⭐. It motivates us to keep building and improving!
-
----
-
-### 📬 Contact Information
-
-Feel free to reach out if you have any questions or suggestions!
-
-- ✉️ Email : `sh.dezhahanj@gmail.com`
-- 👩🏻‍🎤 Linkedin : [Shekoofeh Dezhahanj](https://www.linkedin.com/in/shekoofeh-dezhahanj/)
 
 ---
 
